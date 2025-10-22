@@ -168,6 +168,7 @@ public class AuctionDashboardFrame extends JFrame {
             return;
         }
 
+
         if (highestBidder.isEmpty()) {
             JOptionPane.showMessageDialog(this, "No valid bids placed.", "Info", JOptionPane.INFORMATION_MESSAGE);
             return;

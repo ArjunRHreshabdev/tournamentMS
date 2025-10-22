@@ -1,4 +1,4 @@
-package com.auction;
+package com.auction.main;
 
 import com.auction.models.*;
 import com.auction.dao.*;
